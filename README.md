@@ -2,6 +2,8 @@
 
 A lightweight Next.js frontend that lists Christian Unions using the UCCF public data API.
 
+Live site: https://culist-one.vercel.app/
+
 ## Definition
 A Christian Union (CU) is a student-led Christian group at a university or college that gathers for worship, community, and outreach.
 
