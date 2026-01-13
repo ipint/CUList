@@ -10,12 +10,15 @@ A Christian Union (CU) is a student-led Christian group at a university or colle
 - Responsive grid layout with a bold editorial look
 - Automatic refresh every hour using Next.js ISR
 
+## Requirements
+- Node.js 18.17+ minimum (Node.js 20 LTS recommended, run `nvm use` if you use nvm)
+
 ## Installation
 1. Install dependencies:
    ```bash
    npm install
    ```
-2. Create a `.env.local` file:
+2. Create a `.env.local` file and add:
    ```bash
    UCCF_API_URL=http://v1.data.uccf.io/api/christian-unions/expand
    ```
